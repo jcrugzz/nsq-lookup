@@ -1,5 +1,5 @@
 {
-  "name": "nsq-lookup",
+  "name": "nsq-lookup-jc",
   "version": "3.0.1",
   "repository": "segmentio/nsq-lookup",
   "description": "lookup nsqd instances via nsqlookupd",
